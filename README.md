@@ -1,6 +1,6 @@
 - 👋 Oi, eu sou @YanVictor00
 - 👀 Estou interessado em desenvolvimento de software e web
-- 🌱 Atualmente estou aprendendo HTML, CSS, JS, NODE.JS and C#.
+- 🌱 Atualmente estou focado em aprender Java
 - ☕ Vamos tomar um café e codar?  😎
 <!---
 YanVictor00/YanVictor00 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
