@@ -70,19 +70,21 @@ Me chamo Yan Victor Dos Santos Rocha, tenho 20 anos e sou natural do Pará, mora
 
 ### 📊 Estatísticas
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
-
-  <img 
-    alt="GitHub Stats" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api?username=yanvictor00&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
-  <img 
-    alt="Top Langs" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=yanvictor00&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
-</div>
-
+<table>
+  <tr>
+    <td>
+      <img 
+        alt="GitHub Stats" 
+        height="200" 
+        src="https://github-readme-stats.vercel.app/api?username=yanvictor00&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+      />
+    </td>
+    <td>
+      <img 
+        alt="Top Langs" 
+        height="200" 
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=yanvictor00&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      />
+    </td>
+  </tr>
+</table>
