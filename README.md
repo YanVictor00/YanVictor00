@@ -48,6 +48,14 @@ Me chamo Yan Victor Dos Santos Rocha, tenho 20 anos e sou natural do Pará, mora
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"
     >
+    <img 
+    align="left" 
+    alt="SQL" 
+    title="SQL"
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg"
+    >
 <img 
     align="left" 
     alt="Git" 
